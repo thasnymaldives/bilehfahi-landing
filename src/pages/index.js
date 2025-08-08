@@ -3,7 +3,7 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <main style={{ fontFamily: "Arial", padding: "2rem", maxWidth: "800px", margin: "auto" }}>
-      <h1>Welcome to Bilehfahi 🌴</h1>
+      <h1>Welcome to Bilehfahi2 🌴</h1>
       <p>
         Bilehfahi is a beautiful and serene island located in the Maldives, offering an authentic
         local experience with stunning beaches and crystal-clear lagoons.
